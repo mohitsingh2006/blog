@@ -1,0 +1,25 @@
+Simple Blog Application in Codeigniter (Hindi)
+
+-- Admin Panel
+---- Login // DONE
+---- Dashboard // DONE
+---- Blogs Add/Edit/Delete  // DONE
+---- Blog Comments Block/Delete
+
+Frontend 
+-- Home Page with Blog Listing // Done
+---- Blog Page Setup // DONE
+---- Blog Listing // DONE
+-- Blog Detail // DONE 
+---- Blog Comments // DONE
+
+
+Blog Comments
+====================================
+Controller => Home
+View => details
+Model => Comment_model
+
+Table => comments
+========
+comment_id, name, comment, status, created_at
